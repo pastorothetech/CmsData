@@ -1,4 +1,4 @@
-[
+var players = [
     {
         "name": "Elroy Hirsch",
         "class": "Class of 1968",
