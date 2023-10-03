@@ -1,0 +1,83 @@
+[
+  {
+    "familyName": "Aandahl",
+    "givenName": "Fred",
+    "birthDate": "1897-04-09",
+    "deathDate": "1966-04-07",
+    "profileText": "A Representative from North Dakota; born in Litchville, Barnes County, N.Dak., April 9, 1897; graduated from Litchville High School, Litchville, N.Dak.; graduated from the University of North Dakota, Grand Forks, N.Dak., 1921; farmer; superintendent of schools, Litchville, N.Dak., 1922-1927; member of the North Dakota state senate, 1931, 1939, and 1941; governor of North Dakota, 1945-1950; elected as a Republican to the Eighty-second Congress (January 3, 1951-January 3, 1953); was not a candidate for the Eighty-third Congress in 1952, but was an unsuccessful candidate for the United States Senate; appointed Assistant Secretary of the Department of the Interior, 1953-1961; died April 7, 1966, in Fargo, N.Dak.; interment in Hillside Cemetery, Valley City, N.Dak.",
+    "jobPositions": [
+      {
+        "job": {
+          "name": "Representative"
+        },
+        "congressAffiliation": {
+          "partyAffiliation": [
+            {
+              "party": {
+                "name": "Republican"
+              }
+            }
+          ],
+          "represents": {
+            "regionType": "DistrictRegion",
+            "regionCode": "ND"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "familyName": "Abbitt",
+    "givenName": "Watkins",
+    "birthDate": "1908-05-21",
+    "deathDate": "1998-07-13",
+    "profileText": "A Representative from Virginia; born in Lynchburg, Campbell County, Va., May 21, 1908; graduated from Appomattox Agricultural High School, Appomattox, Va., 1925; LL.B., University of Richmond, Richmond, Va., 1931; lawyer, private practice; Commonwealth attorney of Appomattox County, Va., 1932-1948; member of the Virginia Constitutional Convention, 1945; delegate, Democratic National Convention, 1964; bank executive; elected as a Democrat to the Eightieth Congress, by special election to fill the vacancy caused by the death of United States Representative Patrick H. Drewry, and reelected to the twelve succeeding Congresses (February 17, 1948-January 3, 1973); was not a candidate for reelection to the Ninety-third Congress in 1972; died on July 13, 1998, in Lynchburg, Va.; interment at Liberty Cemetery, Appomattox, Va.",
+    "jobPositions": [
+      {
+        "job": {
+          "name": "Representative"
+        },
+        "congressAffiliation": {
+          "partyAffiliation": [
+            {
+              "party": {
+                "name": "Democrat"
+              }
+            }
+          ],
+          "represents": {
+            "regionType": "StateRegion",
+            "regionCode": "VA"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "familyName": "Abbot",
+    "givenName": "Joel",
+    "birthDate": "1776-03-17",
+    "deathDate": "1826-11-19",
+    "profileText": "A Representative from Georgia; born in Ridgefield, Conn., March 17, 1776; physician; member of the Washington, Ga., city council; member of the Georgia state house of representatives, 1799, 1802-1804, 1808, and 1811; elected as a Republican to the Fifteenth and reelected to the two succeeding Congresses and elected as a Crawford Republican to the Eighteenth (March 4, 1817-March 3, 1825); died on November 19, 1826, in Lexington, Ga.; interment in Rest Haven Cemetery, Washington, Ga.",
+    "jobPositions": [
+      {
+        "job": {
+          "name": "Representative"
+        },
+        "congressAffiliation": {
+          "partyAffiliation": [
+            {
+              "party": {
+                "name": "Republican"
+              }
+            }
+          ],
+          "represents": {
+            "regionType": "StateRegion",
+            "regionCode": "GA"
+          }
+        }
+      }
+    ]
+  }
+]
